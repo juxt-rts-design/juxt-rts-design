@@ -1,4 +1,4 @@
-# juxt-rts-design
+# HΞXΛRØ
 
 <div align="center">
   <img src="./assets/banner.png" alt="juxt-rts-design - Hacker éthique et développeur" width="100%" />
@@ -27,7 +27,7 @@ Pentest / AppSec / Web / Automation — toujours dans les règles.
 
 ```bash
 $ whoami
-juxt-rts-design
+HΞXΛRØ
 
 $ cat mission.txt
 Esprit offensif. Craft défensif. Code propre.
@@ -38,7 +38,7 @@ Développeur et **hacker éthique** — j'allie sécurité offensive et craft lo
 
 | Champ | Valeur |
 |:------|:-------|
-| **Alias** | `juxt-rts-design` |
+| **Alias** | `HΞXΛRØ` |
 | **Rôle** | Hacker éthique / Développeur |
 | **Focus** | Web AppSec / PHP / Automation / Red Team |
 | **Règle** | Tests uniquement sur cibles autorisées |
