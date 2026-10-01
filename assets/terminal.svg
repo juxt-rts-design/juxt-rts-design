@@ -1,18 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
   <rect width="900" height="180" rx="8" fill="#050807" stroke="#1aff8c" stroke-opacity="0.2"/>
-  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#1aff8c">
-    <tspan>$ nmap -sV --script=vuln target.local</tspan>
-  </text>
-  <text x="28" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#9fd9bc">
-    <tspan>PORT     STATE  SERVICE     VERSION</tspan>
-  </text>
-  <text x="28" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#e8fff4">
-    <tspan>22/tcp   open   ssh         OpenSSH</tspan>
-  </text>
-  <text x="28" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#e8fff4">
-    <tspan>80/tcp   open   http        nginx</tspan>
-  </text>
-  <text x="28" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c41e3a">
-    <tspan>� Findings documented. Patch recommended.</tspan>
-  </text>
+  <text x="28" y="42" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#1aff8c">$ nmap -sV --script=vuln cible.local</text>
+  <text x="28" y="78" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">PORT     ÉTAT   SERVICE     VERSION</text>
+  <text x="28" y="104" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#e8fff4">22/tcp   open   ssh         OpenSSH</text>
+  <text x="28" y="130" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#e8fff4">80/tcp   open   http        nginx</text>
+  <text x="28" y="156" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#c41e3a">→ Findings documentés. Correctifs recommandés.</text>
 </svg>

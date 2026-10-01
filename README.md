@@ -1,23 +1,23 @@
 # juxt-rts-design
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juxt-rts-design/juxt-rts-design/main/assets/banner.svg" alt="juxt-rts-design Ethical Hacker and Developer" width="100%" />
+  <img src="./assets/banner.png" alt="juxt-rts-design - Hacker éthique et développeur" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Ethical Hacker / Developer**
+**Hacker éthique / Développeur**
 
-*I break things so they cannot be broken.*
+*Je casse les systèmes pour qu'ils ne puissent plus l'être.*
 
-Pentest / AppSec / Web / Automation - always within the rules.
+Pentest / AppSec / Web / Automation — toujours dans les règles.
 
-[![Followers](https://img.shields.io/github/followers/juxt-rts-design?style=for-the-badge&logo=github&logoColor=1aff8c&labelColor=0a1210&color=1aff8c)](https://github.com/juxt-rts-design)
-[![Repos](https://img.shields.io/badge/Repos-61-c41e3a?style=for-the-badge&logo=github&logoColor=fff&labelColor=0a1210)](https://github.com/juxt-rts-design?tab=repositories)
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-1aff8c?style=for-the-badge&labelColor=0a1210)](https://github.com/juxt-rts-design)
-[![Clearance](https://img.shields.io/badge/CLEARANCE-ETHICAL%20ONLY-c41e3a?style=for-the-badge&labelColor=0a1210)](https://github.com/juxt-rts-design)
+[![Abonnés](https://img.shields.io/github/followers/juxt-rts-design?style=for-the-badge&logo=github&logoColor=1aff8c&labelColor=0a1210&color=1aff8c&label=ABONNÉS)](https://github.com/juxt-rts-design)
+[![Repos](https://img.shields.io/badge/REPOS-61-c41e3a?style=for-the-badge&logo=github&logoColor=fff&labelColor=0a1210)](https://github.com/juxt-rts-design?tab=repositories)
+[![Statut](https://img.shields.io/badge/STATUT-EN%20LIGNE-1aff8c?style=for-the-badge&labelColor=0a1210)](https://github.com/juxt-rts-design)
+[![Clearance](https://img.shields.io/badge/CLEARANCE-ÉTHIQUE%20UNIQUEMENT-c41e3a?style=for-the-badge&labelColor=0a1210)](https://github.com/juxt-rts-design)
 
 </div>
 
@@ -30,18 +30,18 @@ $ whoami
 juxt-rts-design
 
 $ cat mission.txt
-Offensive mindset. Defensive craft. Clean code.
-Authorized testing only. Responsible disclosure.
+Esprit offensif. Craft défensif. Code propre.
+Tests uniquement autorisés. Disclosure responsable.
 ```
 
-Developer and ethical hacker - I combine offensive security and software craft to understand, test, and harden systems.
+Développeur et **hacker éthique** — j'allie sécurité offensive et craft logiciel pour comprendre, tester et durcir les systèmes.
 
-| Field | Value |
-|:------|:------|
+| Champ | Valeur |
+|:------|:-------|
 | **Alias** | `juxt-rts-design` |
-| **Role** | Ethical Hacker / Developer |
-| **Focus** | Web AppSec / PHP / Automation / Red Team mindset |
-| **Rule** | Authorized testing only |
+| **Rôle** | Hacker éthique / Développeur |
+| **Focus** | Web AppSec / PHP / Automation / Red Team |
+| **Règle** | Tests uniquement sur cibles autorisées |
 | **Stack** | Linux / PHP / Python / Bash / Git / Docker |
 
 ---
@@ -49,10 +49,10 @@ Developer and ethical hacker - I combine offensive security and software craft t
 ## ~/arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juxt-rts-design/juxt-rts-design/main/assets/terminal.svg" alt="Ethical workflow terminal" width="100%" />
+  <img src="./assets/terminal.png" alt="Workflow éthique terminal" width="100%" />
 </div>
 
-### Offensive
+### Offensif
 
 ![Nmap](https://img.shields.io/badge/Nmap-0a1210?style=flat-square&logoColor=1aff8c&color=1aff8c)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0a1210?style=flat-square&logoColor=c41e3a&color=c41e3a)
@@ -61,7 +61,7 @@ Developer and ethical hacker - I combine offensive security and software craft t
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0a1210?style=flat-square&logo=kalilinux&logoColor=1aff8c)
 ![OWASP](https://img.shields.io/badge/OWASP-0a1210?style=flat-square&logo=owasp&logoColor=c41e3a)
 
-### Development
+### Développement
 
 ![PHP](https://img.shields.io/badge/PHP-0a1210?style=flat-square&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-0a1210?style=flat-square&logo=python&logoColor=1aff8c)
@@ -72,14 +72,14 @@ Developer and ethical hacker - I combine offensive security and software craft t
 ![Linux](https://img.shields.io/badge/Linux-0a1210?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0a1210?style=flat-square&logo=git&logoColor=c41e3a)
 
-### Domains
+### Domaines
 
 ```text
 WEB APPSEC   |  XSS, SQLi, Auth, IDOR, API
-NETWORK      |  Recon, Scanning, Service enum
-SCRIPTING    |  Python, Bash, PHP automation
-HARDENING    |  Secure config, Least privilege
-REPORTING    |  Clear findings, Actionable fixes
+RÉSEAU       |  Recon, Scan, Énumération services
+SCRIPTING    |  Automation Python, Bash, PHP
+DURCISSEMENT |  Config sécurisée, moindre privilège
+REPORTING    |  Findings clairs, correctifs actionnables
 ```
 
 ---
@@ -87,12 +87,12 @@ REPORTING    |  Clear findings, Actionable fixes
 ## ~/ops
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juxt-rts-design&show_icons=true&hide_border=true&bg_color=050807&title_color=1aff8c&icon_color=c41e3a&text_color=9fd9bc&ring_color=1aff8c" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxt-rts-design&layout=compact&hide_border=true&bg_color=050807&title_color=1aff8c&text_color=9fd9bc" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juxt-rts-design&show_icons=true&hide_border=true&bg_color=050807&title_color=1aff8c&icon_color=c41e3a&text_color=9fd9bc&ring_color=1aff8c&locale=fr" alt="Stats GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxt-rts-design&layout=compact&hide_border=true&bg_color=050807&title_color=1aff8c&text_color=9fd9bc&locale=fr" alt="Langages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=juxt-rts-design&theme=dark&hide_border=true&background=050807&ring=1aff8c&fire=c41e3a&currStreakLabel=1aff8c" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=juxt-rts-design&theme=dark&hide_border=true&background=050807&ring=1aff8c&fire=c41e3a&currStreakLabel=1aff8c&locale=fr" alt="Série GitHub" />
 </div>
 
 ---
@@ -102,22 +102,22 @@ REPORTING    |  Clear findings, Actionable fixes
 | Repo | Type | Stack |
 |:-----|:-----|:------|
 | [Librairie](https://github.com/juxt-rts-design/Librairie) | App | PHP |
-| [BOT](https://github.com/juxt-rts-design/BOT) | Tool | JavaScript |
-| [Downloader](https://github.com/juxt-rts-design/Downloader) | Tool | JavaScript |
-| [DGR](https://github.com/juxt-rts-design/DGR) | Project | TypeScript |
+| [BOT](https://github.com/juxt-rts-design/BOT) | Outil | JavaScript |
+| [Downloader](https://github.com/juxt-rts-design/Downloader) | Outil | JavaScript |
+| [DGR](https://github.com/juxt-rts-design/DGR) | Projet | TypeScript |
 
 ---
 
 ## ~/doctrine
 
 ```diff
-+ Authorized targets only
-+ Document findings clearly
-+ Prefer fix over flex
-+ Never weaponize for harm
-- No illegal access
-- No drive-by exploits
-- No credential abuse
++ Cibles autorisées uniquement
++ Documenter les findings clairement
++ Préférer le correctif au flex
++ Ne jamais weaponiser pour nuire
+- Pas d'accès illégal
+- Pas d'exploits drive-by
+- Pas d'abus de credentials
 ```
 
 ---
@@ -125,14 +125,14 @@ REPORTING    |  Clear findings, Actionable fixes
 ## ~/contact
 
 ```bash
-$ echo "Open an issue on GitHub"
-# Collaboration / Labs / Responsible disclosure
+$ echo "Ouvre une issue sur GitHub"
+# Collab / Labs / Disclosure responsable
 ```
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-juxt--rts--design-1aff8c?style=for-the-badge&logo=github&logoColor=1aff8c&labelColor=0a1210)](https://github.com/juxt-rts-design)
 
-`[EOF] - stay curious, stay ethical.`
+`[EOF] — reste curieux, reste éthique.`
 
 </div>
