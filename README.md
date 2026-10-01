@@ -1,7 +1,7 @@
 # HΞXΛRØ
 
 <div align="center">
-  <img src="./assets/banner.png" alt="juxt-rts-design - Hacker éthique et développeur" width="100%" />
+  <img src="./assets/banner.png" alt="HΞXΛRØ - Hacker éthique et développeur" width="100%" />
 </div>
 
 <br/>
