@@ -131,8 +131,8 @@ $ echo "Ouvre une issue sur GitHub"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-juxt--rts--design-1aff8c?style=for-the-badge&logo=github&logoColor=1aff8c&labelColor=0a1210)](https://github.com/juxt-rts-design)
+[![GitHub](https://img.shields.io/badge/GitHub-H%CE%9EX%CE%9AR%C3%98-1aff8c?style=for-the-badge&logo=github&logoColor=1aff8c&labelColor=0a1210)](https://github.com/juxt-rts-design)
 
-`[EOF] — reste curieux, reste éthique.`
+`[EOF] — reste curieux, reste éthique. — HΞXΛRØ`
 
 </div>

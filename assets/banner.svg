@@ -18,14 +18,15 @@
   <circle cx="78" cy="66" r="6" fill="#c41e3a"/>
   <circle cx="98" cy="66" r="6" fill="#e6b422"/>
   <circle cx="118" cy="66" r="6" fill="#1aff8c"/>
-  <text x="160" y="71" font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#7a9e8c">root@juxt-rts-design:~</text>
+  <text x="160" y="71" font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#7a9e8c">root@HΞXΛRØ:~</text>
   <text x="80" y="118" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#1aff8c">$ whoami</text>
-  <text x="80" y="146" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e8fff4">juxt-rts-design — Hacker éthique &amp; Développeur</text>
-  <text x="80" y="186" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#1aff8c">$ cat mission.txt</text>
-  <text x="80" y="214" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">Casser les systèmes. Les comprendre. Les renforcer.</text>
-  <text x="80" y="238" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">Esprit offensif · Craft défensif · Code propre</text>
-  <text x="80" y="278" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#1aff8c">$ _</text>
-  <rect x="98" y="264" width="10" height="18" fill="#1aff8c"/>
+  <text x="80" y="146" font-family="DejaVu Sans Mono, monospace" font-size="18" fill="#e8fff4" font-weight="700">HΞXΛRØ</text>
+  <text x="80" y="172" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">Hacker éthique &amp; Développeur</text>
+  <text x="80" y="210" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#1aff8c">$ cat mission.txt</text>
+  <text x="80" y="238" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">Casser les systèmes. Les comprendre. Les renforcer.</text>
+  <text x="80" y="262" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#9fd9bc">Esprit offensif · Craft défensif · Code propre</text>
+  <text x="80" y="292" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#1aff8c">$ _</text>
+  <rect x="98" y="278" width="10" height="18" fill="#1aff8c"/>
   <g transform="translate(820, 64)">
     <text font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#7a9e8c" letter-spacing="2">STATUT</text>
     <text y="36" font-family="DejaVu Sans Mono, monospace" font-size="22" fill="#1aff8c" font-weight="700">EN LIGNE</text>
